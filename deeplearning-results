@@ -1,0 +1,13 @@
+Theano
+baseline: 75.34% 75.44%
+normalized: 84.65%
+minmax: 85.40%
+standardized: 85.83%
+neil: 84.93%
+
+Tensorflow
+baseline: 24.66% 24.57%
+normalized: 84.46%
+minmax: 85.36%
+standardized: 85.96%
+neil: 84.87%
